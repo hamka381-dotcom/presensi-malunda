@@ -1,0 +1,10 @@
+{
+  "include": ["."],
+  "extraPaths": [
+    "./",
+    "./backend",
+    "./routers"
+  ],
+  "venvPath": ".",
+  "venv": "venv"
+}
